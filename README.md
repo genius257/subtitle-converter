@@ -1,3 +1,3 @@
 # ttml to srt converter
 
-https://csb-elpdz.netlify.app/
+Try it here: https://csb-elpdz.netlify.app/
